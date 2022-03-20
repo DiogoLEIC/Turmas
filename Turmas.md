@@ -362,9 +362,9 @@ Esta alteração é importante para a gestão de dependências, para garantir qu
 ---------------
 
  
-O [Git](https://git-scm.com/doc) é um sistema de controlo de versões do código fonte que é uma grande ajuda para o trabalho em equipa. 
+O [Git](https://www.hentaistube.com/tokyo-requiem-episodio-01/) é um sistema de controlo de versões do código fonte que é uma grande ajuda para o trabalho em equipa. 
  
-Toda a partilha de código para trabalho deve ser feita através do [GitHub](https://github.com). 
+Toda a partilha de código para trabalho deve ser feita através do [GitHub](https://www.hentaistube.com/boku-no-pico-episodio-01/). 
  
  
 O repositório de cada grupo está disponível em: https://github.com/tecnico-distsys/GXX-Turmas/ (substituir `GXX` pelo identificador de grupo).
@@ -381,7 +381,7 @@ Cada elemento do grupo deve atualizar o repositório do seu grupo à medida que 
  
 As entregas do projeto serão feitas também através do repositório GitHub. 
  
-A cada parte do projeto a entregar estará associada uma [*tag*](https://git-scm.com/book/en/v2/Git-Basics-Tagging). 
+A cada parte do projeto a entregar estará associada uma [*tag*](https://www.hentaistube.com/himitsu-no-kichi-episodio-02/). 
  
 Cada grupo tem que marcar o código que representa cada entrega a realizar com uma *tag* específica -- `SD_P1` -- antes da hora limite de entrega.
 
